@@ -1,0 +1,236 @@
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\Carmen Alas\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.pdb
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.pdb
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.pdb
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\ReporteProductos.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\REPORTEVENTAS.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\stdole.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\ReporteProductos.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\REPORTEVENTAS.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\ReporteProductos.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\stdole.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\ReporteProductos.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe.config
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.exe
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SIFI.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\ReporteProductos.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\stdole.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\General.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\ReporteProductos.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\SessionManager.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Login.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Main.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.GUI.Splash.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.Properties.Resources.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.GenerateResource.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.csproj.CopyComplete
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.exe
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\SIFI\obj\Debug\SIFI.pdb

@@ -1,0 +1,220 @@
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesGestion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.DireccionesGestion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosGestion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosEdicion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.pdb
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesGestion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.DireccionesGestion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosEdicion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosGestion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.dll
+C:\Users\Rebeca Hernández\Documents\DSII\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.DireccionesGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.PuntoDeVenta.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesEdicion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesGestion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.detalledeventas.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.DireccionesGestion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosEdicion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosGestion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.PuntoDeVenta.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ventas.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_BUSQUEDAS.BuscarProductos.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesEdicion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ComprasGestion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_KARDEX.Kardex.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_BUSQUEDAS.BuscarProductos.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_KARDEX.Kardex.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesEdicion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesGestion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ComprasGestion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.detalledeventas.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.DireccionesGestion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosEdicion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosGestion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresEdicion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresGestion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.PuntoDeVenta.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ventas.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_BUSQUEDAS.BuscarProductos.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_KARDEX.Kardex.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ComprasGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.DireccionesGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.PuntoDeVenta.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresEdicion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresGestion.resources
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\stdole.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.VisorVenta.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\General.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\stdole.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_KARDEX.Kardex.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesEdicion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ClientesGestion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ComprasGestion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.DireccionesGestion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosEdicion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.EmpleadosGestion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosEdicion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProductosGestion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresEdicion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.ProveedoresGestion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.PuntoDeVenta.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesEdicion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.RolesGestion.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.VisorVenta.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.Properties.Resources.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.GenerateResource.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.csproj.CopyComplete
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\SessionManager.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\bin\Debug\SessionManager.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI_VENDEDOR.ProductosVendedor.resources
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\General\obj\Debug\General.GUI.Selección_tipo_de_documento_tributario.resources

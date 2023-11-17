@@ -1,0 +1,9 @@
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Release\DataManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Release\DataManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Release\MySql.Data.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Release\MySql.Data.xml
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Release\DataManager.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Release\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Release\DataManager.csproj.CopyComplete
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Release\DataManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Release\DataManager.pdb

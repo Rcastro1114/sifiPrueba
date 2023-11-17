@@ -1,0 +1,11 @@
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\bin\Release\SessionManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\bin\Release\SessionManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\bin\Release\DataManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\bin\Release\MySql.Data.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\bin\Release\DataManager.pdb
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\bin\Release\MySql.Data.xml
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\obj\Release\SessionManager.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\obj\Release\SessionManager.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\obj\Release\SessionManager.csproj.CopyComplete
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\obj\Release\SessionManager.dll
+C:\Users\ranto\Desktop\SISTEMA DE FACTURACION E INVENTARIO\SessionManager\obj\Release\SessionManager.pdb

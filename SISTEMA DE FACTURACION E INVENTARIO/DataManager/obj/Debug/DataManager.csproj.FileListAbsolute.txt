@@ -1,0 +1,36 @@
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.pdb
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.dll
+C:\Users\ranto\Documents\GitHub\ProyectoSIFI\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Documents\Final\SISTEMA DE FACTURACION E INVENTARIO-3\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.xml
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.dll
+C:\Users\Rebeca Hernández\Downloads\SISTEMA DE FACTURACION E INVENTARIO\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\DataManager.pdb
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\bin\Debug\MySql.Data.xml
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.AssemblyReference.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.dll
+C:\Users\ranto\Desktop\TodoslosArchivos\Universidad\IMPLANTACIÓN DE SISTEMAS\SISTEMA DE FACTURACION E INVENTARIO\DataManager\obj\Debug\DataManager.pdb
